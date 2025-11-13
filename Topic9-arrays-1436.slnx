@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Demo DYNAMIC array/Demo DYNAMIC array.vcxproj" />
+  <Project Path="DemoCStyleArrays/DemoCStyleArrays.vcxproj" />
+  <Project Path="Topic9-arrays-1436/Topic9-arrays-1436.vcxproj" />
+</Solution>
