@@ -3,7 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Demo DYNAMIC array/Demo DYNAMIC array.vcxproj" />
-  <Project Path="DemoCStyleArrays/DemoCStyleArrays.vcxproj" />
-  <Project Path="Topic9-arrays-1436/Topic9-arrays-1436.vcxproj" />
+  <Project Path="Demo DYNAMIC array/Demo DYNAMIC array.vcxproj" Id="ef1315ee-102b-44f5-948c-c3e2369abfcb" />
+  <Project Path="DemoCStyleArrays/DemoCStyleArrays.vcxproj" Id="903b41a6-2ce8-4d28-803c-cdda9a3d2559" />
+  <Project Path="Topic9-arrays-1436/Topic9-arrays-1436.vcxproj" Id="0c18e13c-2282-48cd-91db-38ecefe384a0" />
 </Solution>
