@@ -5,5 +5,10 @@
   </Configurations>
   <Project Path="Demo DYNAMIC array/Demo DYNAMIC array.vcxproj" Id="ef1315ee-102b-44f5-948c-c3e2369abfcb" />
   <Project Path="DemoCStyleArrays/DemoCStyleArrays.vcxproj" Id="903b41a6-2ce8-4d28-803c-cdda9a3d2559" />
+  <Project Path="DictionaryAnalytics/DictionaryAnalytics.vcxproj" Id="95d7f036-165f-47a7-bc50-44bf6d893bf2" />
+  <Project Path="Example of 2D array/Example of 2D array.vcxproj" Id="d8e5280c-b5ef-42f0-8a28-ad48b4049c5b" />
+  <Project Path="Maps - AKA associative arrays/Maps - AKA associative arrays.vcxproj" Id="034859f5-180c-45f7-8acf-138ec295399d" />
+  <Project Path="OTHER example of maps/OTHER example of maps.vcxproj" Id="dad16b8a-f74e-48a2-bd0c-3fde99ef605a" />
+  <Project Path="Sets - AKA arrays without duplicates/Sets - AKA arrays without duplicates.vcxproj" Id="f2b4df44-c946-47eb-b0b0-cba23f96cb5c" />
   <Project Path="Topic9-arrays-1436/Topic9-arrays-1436.vcxproj" Id="0c18e13c-2282-48cd-91db-38ecefe384a0" />
 </Solution>
